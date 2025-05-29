@@ -1,5 +1,4 @@
 // Step 1: Create and Initialize Variables
-
 let startupName = "Startup Budget Assistant";
 let initialCapital = 100000; // Initial capital in dollars
 let monthlyRevenue = 20000; // Monthly revenue in dollars
